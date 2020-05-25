@@ -1,0 +1,360 @@
+.section1 {
+    background: url("https://unsplash.com/photos/SHA85I0G8K4/download?force=true");
+    height: 120vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+* {
+    margin: 0 0 0 0;
+}
+
+.title {
+    margin-top: 10px;
+    font-size: 28px;
+    color: #000000;
+    font-family: "Lexend Deca";
+}
+
+.buttonSec {
+    margin-top: -8px;
+    margin-left: 730px;
+    color: #ffffff;
+}
+
+.innerSec1 {
+    padding-top: 15px;
+    padding-left: 50px;
+    display: flex;
+}
+
+h1 {
+    font-family: "Lexend Deca";
+    color: white;
+    font-size: 20px;
+}
+
+button {
+    background-color: transparent;
+    font-family: 'Lexend Deca', sans-serif;
+    color: #ffffff;
+    font-size: 16px;
+    border-style: none;
+    padding: 14px 16px 14px 16px;
+    margin-right: 10px;
+}
+
+button:hover {
+    background-color: rgb(22, 19, 19);
+}
+
+.container {
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 70px;
+    margin-top: 100px;
+    height: 470px;
+    width: 400px;
+    border-radius: 6px;
+    background-color: white;
+}
+
+.form {
+    margin-top: 30px;
+}
+
+h4 {
+    font-family: 'Lexend Deca';
+    color: grey;
+}
+
+.where {
+    height: 30px;
+    width: 100%;
+    border-radius: 3px;
+    border-color: rgb(236, 235, 235);
+    border-width: 1px;
+}
+
+.checkin {
+    height: 30px;
+    width: 49%;
+    border-radius: 3px;
+    border-color: rgb(236, 235, 235);
+    border-width: 1px;
+}
+
+.checkout {
+    height: 30px;
+    width: 50%;
+    border-radius: 3px;
+    border-color: rgb(236, 235, 235);
+    border-width: 1px;
+    margin-left: 200px;
+    margin-top: -230px;
+}
+
+.guests {
+    height: 30px;
+    width: 100%;
+    border-radius: 3px;
+    border-color: rgb(207, 205, 205);
+    border-width: 1px;
+    margin-top: 5px;
+}
+
+.btn {
+    font-family: "Lexend Deca", sans-serif;
+    font-size: 18px;
+    color: #fff;
+    border-style: none;
+    border-radius: 3px;
+    background-color: #ff5a5f;
+    padding: 10px 20px;
+    display: flex;
+    margin-top: 30px;
+    margin-left: 300px;
+}
+
+.btn:hover {
+    background-color: #FF5A5F;
+}
+
+.section2 {
+    height: 140vh;
+    width: 100%;
+}
+
+.img {
+    height: 233px;
+    width: 350px;
+    border-radius: 10px;
+    margin-left: 60px;
+}
+
+.places {
+    font-size: 30px;
+    font-family: 'Lexend Deca', sans-serif;
+    margin-top: 60px;
+    margin-left: 60px;
+}
+
+.img1 {
+    height: 233px;
+    width: 350px;
+    border-radius: 10px;
+    margin-top: -380px;
+    margin-left: 440px;
+    display: flex;
+}
+
+.img2 {
+    height: 233px;
+    width: 350px;
+    border-radius: 10px;
+    margin-top: -360px;
+    margin-left: 820px;
+    display: flex;
+}
+
+.description {
+    margin-left: 60px;
+    font-size: 12px;
+    font-family: 'Lexend Deca', sans-serif;
+    color: #666666;
+}
+
+.img3 {
+    height: 233px;
+    width: 350px;
+    border-radius: 10px;
+    margin-top: 100px;
+    margin-left: 60px;
+    display: flex;
+}
+
+.img4 {
+    height: 233px;
+    width: 350px;
+    border-radius: 10px;
+    margin-top: -360px;
+    margin-left: 440px;
+    display: flex;
+}
+
+.img5 {
+    height: 233px;
+    width: 350px;
+    border-radius: 10px;
+    margin-top: -360px;
+    margin-left: 820px;
+    display: flex;
+}
+
+.first {
+    font-size: 20px;
+    color: #000000;
+    font-family: 'Lexend Deca', sans-serif;
+    margin-left: 60px;
+}
+
+.images {
+    margin-top: -400px;
+}
+
+.price {
+    font-size: 14px;
+    font-family: 'Lexend Deca', sans-serif;
+    color: #666666;
+    margin-left: 60px;
+}
+
+.rating {
+    margin-left: 60px;
+    color: #666666;
+    font-size: 12px;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.price1 {
+    font-size: 14px;
+    font-family: 'Lexend Deca', sans-serif;
+    color: #666666;
+    margin-left: 440px;
+}
+
+.rating1 {
+    margin-left: 440px;
+    color: #666666;
+    font-size: 12px;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.first1 {
+    font-size: 20px;
+    color: #000000;
+    font-family: 'Lexend Deca', sans-serif;
+    margin-left: 440px;
+}
+
+.description1 {
+    margin-left: 440px;
+    font-size: 12px;
+    font-family: 'Lexend Deca', sans-serif;
+    color: #666666;
+}
+
+.price2 {
+    font-size: 14px;
+    font-family: 'Lexend Deca', sans-serif;
+    color: #666666;
+    margin-left: 820px;
+}
+
+.rating2 {
+    margin-left: 820px;
+    color: #666666;
+    font-size: 12px;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.first2 {
+    font-size: 20px;
+    color: #000000;
+    font-family: 'Lexend Deca', sans-serif;
+    margin-left: 820px;
+}
+
+.description2 {
+    margin-left: 820px;
+    font-size: 12px;
+    font-family: 'Lexend Deca', sans-serif;
+    color: #666666;
+}
+
+.price3 {
+    font-size: 14px;
+    font-family: 'Lexend Deca', sans-serif;
+    color: #666666;
+    margin-left: 60px;
+}
+
+.rating3 {
+    margin-left: 60px;
+    color: #666666;
+    font-size: 12px;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.first3 {
+    font-size: 20px;
+    color: #000000;
+    font-family: 'Lexend Deca', sans-serif;
+    margin-left: 60px;
+}
+
+.description3 {
+    margin-left: 60px;
+    font-size: 12px;
+    font-family: 'Lexend Deca', sans-serif;
+    color: #666666;
+}
+
+.price4 {
+    font-size: 14px;
+    font-family: 'Lexend Deca', sans-serif;
+    color: #666666;
+    margin-left: 440px;
+}
+
+.rating4 {
+    margin-left: 440px;
+    color: #666666;
+    font-size: 12px;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.first4 {
+    font-size: 20px;
+    color: #000000;
+    font-family: 'Lexend Deca', sans-serif;
+    margin-left: 440px;
+}
+
+.description4 {
+    margin-left: 440px;
+    font-size: 12px;
+    font-family: 'Lexend Deca', sans-serif;
+    color: #666666;
+}
+
+.price5 {
+    font-size: 14px;
+    font-family: 'Lexend Deca', sans-serif;
+    color: #666666;
+    margin-left: 820px;
+}
+
+.rating5 {
+    margin-left: 820px;
+    color: #666666;
+    font-size: 12px;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.first5 {
+    font-size: 20px;
+    color: #000000;
+    font-family: 'Lexend Deca', sans-serif;
+    margin-left: 820px;
+}
+
+.description5 {
+    margin-left: 820px;
+    font-size: 12px;
+    font-family: 'Lexend Deca', sans-serif;
+    color: #666666;
+}
